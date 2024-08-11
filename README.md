@@ -7,4 +7,4 @@ Projects (As of August, 2024).
 - Interstellar Space, It was a demo for Space Universe for testing my zero gravity system that I coded, please contact me if you'd like to have the code (https://www.roblox.com/games/6188232438/Interstellar-Space)
 I also do YouTube for fun, I have 1450 subscribers as of June, 2024. https://www.youtube.com/SharkyGaming/
 If you'd like to contact me, please add TheRealSharky on Discord, or simply join my discord server (https://discord.gg/hX28NegMTF) and create a ticket.
-Hobbies: I'm interested in Astronomy, Computer Science, and I like studying History, mainly WW1 and WW2, and some tragic incidents such as Columbine.
+Hobbies: I'm interested in Astronomy, Computer Science, and I like studying History, mainly WW1 and WW2.
